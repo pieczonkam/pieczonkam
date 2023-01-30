@@ -1,4 +1,4 @@
-### Hi there 👋
+# Welcome to my profile!
 ## Team projects:
 - [Optical Character Recognition (OCR) app](https://github.com/miczoc98/AOProjekt)
 - [Graphs and their uses](https://github.com/AleksandraRolka/Graphs)
