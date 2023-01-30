@@ -1,11 +1,10 @@
 ### Hi there 👋
 ## Team projects:
--a
--b
--c
+- https://github.com/miczoc98/AOProjekt
+- https://github.com/AleksandraRolka/Graphs
+- https://github.com/miczoc98/CovidDetector
 ## Google Colab projects:
--aa
--bb
+
 
 
 <!--
