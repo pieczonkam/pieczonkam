@@ -1,9 +1,11 @@
 ### Hi there 👋
 ## Team projects:
-- https://github.com/miczoc98/AOProjekt
-- https://github.com/AleksandraRolka/Graphs
-- https://github.com/miczoc98/CovidDetector
+- [Optical Character Recognition (OCR) app](https://github.com/miczoc98/AOProjekt)
+- [Graphs and their uses](https://github.com/AleksandraRolka/Graphs)
+- [Convolutional Neural Network (CNN) for Covid detection](https://github.com/miczoc98/CovidDetector)
+- [Web application for archery tournament organization](https://github.com/Darkosz1012/amazonka)
 ## Google Colab projects:
+- Chess engine
 
 
 
