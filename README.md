@@ -1,11 +1,15 @@
 # Welcome to my profile!
-## Team projects:
+## Other projects with my contribution:
+- [CNN model for Covid detection](https://github.com/miczoc98/CovidDetector)
+- [Web application for archery tournament organization](https://github.com/Darkosz1012/amazonka)
 - [Optical Character Recognition (OCR) app](https://github.com/miczoc98/AOProjekt)
 - [Graphs and their uses](https://github.com/AleksandraRolka/Graphs)
-- [Convolutional Neural Network (CNN) for Covid detection](https://github.com/miczoc98/CovidDetector)
-- [Web application for archery tournament organization](https://github.com/Darkosz1012/amazonka)
 ## Google Colab projects:
-- Chess engine
+- Using CNN model to detect lung diseases on X-Ray images (Team project)
+- Chess engine (Team project)
+- Big five dataset anaysis (Team project)
+- Using computer vision to create Geoguessr bot (Team project)
+- Finding best word in Wordle game
 
 
 
