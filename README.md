@@ -4,12 +4,12 @@
 - [Web application for archery tournament organization](https://github.com/Darkosz1012/amazonka)
 - [Optical Character Recognition (OCR) app](https://github.com/miczoc98/AOProjekt)
 - [Graphs and their uses](https://github.com/AleksandraRolka/Graphs)
-## Google Colab projects:
-- Using CNN model to detect lung diseases on X-Ray images (Team project)
-- Chess engine (Team project)
-- Big five dataset anaysis (Team project)
-- Using computer vision to create Geoguessr bot (Team project)
-- Finding best word in Wordle game
+## Team projects on Google Colab:
+- [Using CNN model to detect lung diseases on X-Ray images](https://drive.google.com/drive/folders/1yg665yj7HS5G6ahPdYuYZEgO9u6xwZQs?usp=sharing)
+- [Chess engine](https://drive.google.com/drive/folders/1AHXDaZZ8-Rb3kyXIXvhiCwTgkRv-knk6?usp=share_link)
+- [Big five dataset anaysis](https://drive.google.com/drive/folders/1YbPxs4hZe1N6cwjTLDYZB1bqqSb7yvqx?usp=share_link)
+- [Using computer vision to create Geoguessr bot](https://drive.google.com/drive/folders/1cC5ewHEHxSksp5GbZ25lnVtrkbeTF99f?usp=sharing)
+- [Finding best word in Wordle game](https://drive.google.com/drive/folders/1W1-ngAEKFuNSA5zKY9dVYWc50qU5JRUs?usp=sharing)
 
 
 
