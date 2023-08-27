@@ -10,6 +10,7 @@
 - [Big five dataset anaysis](https://drive.google.com/drive/folders/1YbPxs4hZe1N6cwjTLDYZB1bqqSb7yvqx?usp=share_link)
 - [Using computer vision to create Geoguessr bot](https://drive.google.com/drive/folders/1cC5ewHEHxSksp5GbZ25lnVtrkbeTF99f?usp=sharing)
 - [Finding best word in Wordle game](https://drive.google.com/drive/folders/1W1-ngAEKFuNSA5zKY9dVYWc50qU5JRUs?usp=sharing)
+- [Generating emoji faces with GAN model](https://drive.google.com/drive/folders/1dJkecCm87RrNJXTxihMyrBWvqAlxdcDe?usp=drive_link)
 
 
 
